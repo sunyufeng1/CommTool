@@ -1,4 +1,4 @@
-package _else
+package toolElse
 
 import (
 	"log"
