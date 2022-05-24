@@ -1,4 +1,4 @@
-package fileComm
+package fileTool
 
 import "os"
 
